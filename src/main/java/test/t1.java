@@ -15,5 +15,6 @@ public class t1 {
         System.out.println("hello world 5");//1
         System.out.println("hello world 6");//1
         System.out.println("hello world 7");//1
+        System.out.println("hello world 7");//1
     }
 }
